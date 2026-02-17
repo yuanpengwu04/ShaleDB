@@ -1,0 +1,3 @@
+/Users/wuyuanpeng/Study/Projects/my_toy_db/build/CMakeFiles/test.dir
+/Users/wuyuanpeng/Study/Projects/my_toy_db/build/CMakeFiles/edit_cache.dir
+/Users/wuyuanpeng/Study/Projects/my_toy_db/build/CMakeFiles/rebuild_cache.dir
