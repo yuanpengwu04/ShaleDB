@@ -4,7 +4,7 @@
 
 #ifndef MY_TOY_DB_MEMTABLE_H
 #define MY_TOY_DB_MEMTABLE_H
-#include "Status.h"
+#include "status.h"
 
 class MemTable
 {
@@ -12,8 +12,8 @@ public:
     virtual ~MemTable() = default;
     MemTable();
 
-    virtual Status get() = 0;
-    virtual Status put() = 0;
+    virtual status get() = 0;
+    virtual status put() = 0;
 
 };
 
